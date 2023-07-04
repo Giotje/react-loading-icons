@@ -1,6 +1,6 @@
 {
   "name": "@giovankes/react-loading-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "minimum dependency react loading icons",
   "author": {
     "email": "hello@giotje.dev",
@@ -23,6 +23,7 @@
     "@babel/preset-react": "^7.22.5"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.12.1"
+    "@babel/polyfill": "^7.12.1",
+    "core-js": "^3.31.0"
   }
 }

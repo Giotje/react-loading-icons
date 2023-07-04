@@ -1,3 +1,5 @@
+import React from 'react'
+
 export function TailSpin(props) {
 	const speed = Number(String(props.speed ?? 1))
 	const stroke = props.stroke ?? '#fff'
