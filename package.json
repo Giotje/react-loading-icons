@@ -23,7 +23,6 @@
     "@babel/preset-react": "^7.22.5"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.12.1",
-    "core-js": "^3.31.0"
+    "@babel/polyfill": "^7.12.1"
   }
 }
