@@ -1,7 +1,7 @@
 {
   "name": "@giovankes/react-loading-icons",
-  "version": "1.0.1",
-  "description": "zero dependency react loading icons",
+  "version": "1.0.2",
+  "description": "minimum dependency react loading icons",
   "author": {
     "email": "hello@giotje.dev",
     "name": "Giovanni"
@@ -19,8 +19,10 @@
   "devDependencies": {
     "@babel/cli": "^7.22.6",
     "@babel/core": "^7.22.6",
-    "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.22.6",
     "@babel/preset-react": "^7.22.5"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
   }
 }
